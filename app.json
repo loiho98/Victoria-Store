@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "store",
-    "slug": "store",
+    "name": "Victoria Store",
+    "slug": "victoria-store",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -11,6 +11,19 @@
       "image": "./assets/images/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
+    },
+    "extra": {
+      "firebase": {
+        "apiKey": "AIzaSyAPwQjNHF1SKjdggxEk_vfQCXdsMxaMlF8",
+        "authDomain": "shop-35888.firebaseapp.com",
+        "databaseURL": "https://shop-35888.firebaseio.com",
+        "projectId": "shop-35888",
+        "storageBucket": "shop-35888.appspot.com",
+        "messagingSenderId": "110055469672"
+      },
+      "facebook": {
+        "appId": "357436722284742"
+      }
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -23,6 +36,11 @@
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
-    }
+    },
+    "android": {
+      "googleServicesFile": "./google-services.json",
+      "package": "com.loiho.victoriastore"
+    },
+    "description": ""
   }
 }

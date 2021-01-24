@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "110055469672",
+    "firebase_url": "https://shop-35888.firebaseio.com",
+    "project_id": "shop-35888",
+    "storage_bucket": "shop-35888.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110055469672:android:cb85a168c35abb527581dd",
+        "android_client_info": {
+          "package_name": "Nienluan.Shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110055469672-lenk1d38d30uh2tkjjmer0mjvt2984uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0VHpJL99ZeSqV_Ryz349Zqy5lj8Qx2AE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110055469672-lenk1d38d30uh2tkjjmer0mjvt2984uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
